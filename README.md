@@ -5,7 +5,7 @@ i made this quiz app using firebase cloudfire storage which uses as a storage
 
 <img src="https://user-images.githubusercontent.com/101545038/236959673-fdb73917-bb57-4640-93c3-0141cd7a26ab.jpg" width="200">
 
-
+with authenication system which can be sign up and sign only using google acc
 
 <img src="https://user-images.githubusercontent.com/101545038/236959694-8c9a37bd-4494-4b10-ab31-96644bddc3d4.jpg" width="200">
 
