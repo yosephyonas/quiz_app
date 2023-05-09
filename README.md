@@ -1,4 +1,5 @@
-# quiz_app
+# quiz_app its specialized to ask provided quizes and store points at the end of the quiz
+
 i made this quiz app using firebase cloudfire storage which uses as a storage 
 
 
