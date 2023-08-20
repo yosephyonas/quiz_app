@@ -6,17 +6,17 @@ This is a specialized quiz app that allows users to take provided quizzes and st
 ## Screenshots
 
 ### Quiz Selection
-![Quiz Selection](https://user-images.githubusercontent.com/101545038/236959673-fdb73917-bb57-4640-93c3-0141cd7a26ab.jpg)
+<img src="https://user-images.githubusercontent.com/101545038/236959673-fdb73917-bb57-4640-93c3-0141cd7a26ab.jpg" width="150">
 
 ### Authentication
 The app features a user-friendly authentication system that allows users to sign up and sign in using their Google accounts.
 
-![Authentication](https://user-images.githubusercontent.com/101545038/236959694-8c9a37bd-4494-4b10-ab31-96644bddc3d4.jpg)
+<img src="https://user-images.githubusercontent.com/101545038/236959694-8c9a37bd-4494-4b10-ab31-96644bddc3d4.jpg" width="150">
 
 ### Quiz Questions
 Users can take the selected quiz and answer a series of questions.
 
-![Quiz Questions](https://user-images.githubusercontent.com/101545038/236959701-6ada62bb-6f8b-4cba-94a5-512ecc61de95.jpg)
+<img src="https://user-images.githubusercontent.com/101545038/236959701-6ada62bb-6f8b-4cba-94a5-512ecc61de95.jpg" width="150">
 
 ## Key Features
 - User-friendly interface for quiz selection and question answering.
